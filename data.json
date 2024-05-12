@@ -525,5 +525,220 @@
         "comment": "",
         "stars": 4
       }
+    ],
+
+    "ReviewCard":[
+     
+      {
+        "id": 1,
+        "name": "John Doe",
+        "review": "Amazing experience! The scenery was breathtaking, the accommodations were comfortable, and the local cuisine was delicious. Can't wait to visit again!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "review": "Had a fantastic time exploring the historic landmarks and cultural attractions. The tour guides were knowledgeable and friendly. Highly recommend!",
+        "rating": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUO0lmYGGzGe9jOXgF8XzowltGRkjgNfjvA&s"
+      },
+      {
+        "id": 3,
+        "name": "Michael Johnson",
+        "review": "The trip was well-organized, and we got to see so much in a short amount of time. The itinerary was flexible, allowing us to explore at our own pace. Definitely worth it!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 4,
+        "name": "Emily Brown",
+        "review": "Enjoyed every moment of the adventure! From hiking through scenic trails to experiencing the local culture, it was an unforgettable journey. Can't wait for the next adventure!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 5,
+        "name": "David Wilson",
+        "review": "The tour exceeded my expectations. The tour guides were informative, and the accommodations were comfortable. Would recommend to anyone looking for a memorable travel experience!",
+        "rating": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 6,
+        "name": "Sarah Martinez",
+        "review": "Had a wonderful time exploring the charming villages and picturesque landscapes. The locals were welcoming, and the food was delicious. Already planning my next trip!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUO0lmYGGzGe9jOXgF8XzowltGRkjgNfjvA&s"
+      },
+      {
+        "id": 7,
+        "name": "Chris Lee",
+        "review": "The trip was a dream come true! From sunrise hikes to sunset boat rides, every moment was magical. The tour guides were knowledgeable and made the experience even more enjoyable.",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 8,
+        "name": "Amanda Taylor",
+        "review": "Absolutely loved every aspect of the trip. The itinerary was well-planned, and the activities were diverse. Can't wait to explore more destinations with this tour company!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 9,
+        "name": "Daniel Hernandez",
+        "review": "The trip was an adventure of a lifetime! From exploring ancient ruins to snorkeling in crystal-clear waters, it was an unforgettable experience. Highly recommend!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 10,
+        "name": "Ashley Gonzalez",
+        "review": "Had a great time exploring new cultures and trying local cuisines. The tour guides were friendly and knowledgeable. Would definitely book with this tour company again!",
+        "rating": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 11,
+        "name": "Matthew Perez",
+        "review": "The trip was well-organized, and the tour guides were fantastic. However, the accommodations could have been better. Overall, it was a memorable experience.",
+        "rating": 3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 12,
+        "name": "Jessica Carter",
+        "review": "Had a fantastic time exploring the vibrant cities and beautiful landscapes. The tour guides were informative, and the accommodations were comfortable. Highly recommend!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 13,
+        "name": "Ryan Evans",
+        "review": "The trip exceeded my expectations. The itinerary was well-planned, and the tour guides were knowledgeable. Would recommend to anyone looking for a memorable travel experience!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 14,
+        "name": "Olivia Reyes",
+        "review": "Had a wonderful time exploring the natural wonders and cultural attractions. The tour guides were friendly and knowledgeable. Can't wait to book another trip!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 15,
+        "name": "William Russell",
+        "review": "The trip was fantastic from start to finish. The accommodations were comfortable, and the tour guides were excellent. Highly recommend!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 16,
+        "name": "Emma Diaz",
+        "review": "Had a great time exploring the hidden gems and local attractions. The tour guides were knowledgeable, and the accommodations were comfortable. Would recommend!",
+        "rating": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 17,
+        "name": "James Barnes",
+        "review": "The trip was enjoyable, but there were a few issues with the accommodations. Overall, it was a good experience.",
+        "rating": 3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 18,
+        "name": "Sophia Scott",
+        "review": "Had a fantastic time exploring the natural beauty and cultural heritage. The tour guides were friendly and informative. Would recommend to anyone!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 19,
+        "name": "Logan Green",
+        "review": "Enjoyed every moment of the trip. The itinerary was well-planned, and the activities were diverse. Can't wait to book another adventure!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 20,
+        "name": "Isabella Adams",
+        "review": "Had an amazing time exploring new cultures and trying local cuisines. The tour guides were friendly and knowledgeable. Would recommend to anyone looking for a memorable travel experience!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 21,
+        "name": "Jackson Baker",
+        "review": "The trip was fantastic, and the tour guides were excellent. However, the accommodations could have been better. Overall, it was a great experience.",
+        "rating": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 22,
+        "name": "Mia Stewart",
+        "review": "Had a wonderful time exploring the historic landmarks and cultural attractions. The tour guides were knowledgeable, and the accommodations were comfortable. Would recommend!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUO0lmYGGzGe9jOXgF8XzowltGRkjgNfjvA&s"
+      },
+      {
+        "id": 23,
+        "name": "Alexander Sanchez",
+        "review": "The trip exceeded my expectations. The tour guides were knowledgeable, and the accommodations were comfortable. Would book with this tour company again!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 24,
+        "name": "Charlotte Morris",
+        "review": "Had a fantastic time exploring the natural beauty and cultural heritage. The tour guides were friendly and informative. Would recommend to anyone!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 25,
+        "name": "Lucas Rogers",
+        "review": "The trip was enjoyable, but there were a few issues with the accommodations. Overall, it was a good experience.",
+        "rating": 3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUO0lmYGGzGe9jOXgF8XzowltGRkjgNfjvA&s"
+      },
+      {
+        "id": 26,
+        "name": "Lily Fisher",
+        "review": "Had a wonderful time exploring new cultures and trying local cuisines. The tour guides were friendly and knowledgeable. Can't wait to book another trip!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUO0lmYGGzGe9jOXgF8XzowltGRkjgNfjvA&s"
+      },
+      {
+        "id": 27,
+        "name": "Benjamin Cook",
+        "review": "The trip was fantastic, and the tour guides were excellent. However, the accommodations could have been better. Overall, it was a great experience.",
+        "rating": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 28,
+        "name": "Ella Gray",
+        "review": "Had a fantastic time exploring the natural wonders and cultural attractions. The tour guides were knowledgeable and friendly. Would recommend to anyone!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      },
+      {
+        "id": 29,
+        "name": "Noah Bailey",
+        "review": "Enjoyed every moment of the trip. The itinerary was well-planned, and the activities were diverse. Can't wait to book another adventure!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUO0lmYGGzGe9jOXgF8XzowltGRkjgNfjvA&s"
+      },
+      {
+        "id": 30,
+        "name": "Grace Collins",
+        "review": "Had an amazing time exploring new cultures and trying local cuisines. The tour guides were friendly and knowledgeable. Would recommend to anyone!",
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
+      }
     ]
+    
   }
