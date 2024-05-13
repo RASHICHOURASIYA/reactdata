@@ -739,6 +739,208 @@
         "rating": 5,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAnvcyMxoOnmcm54BwRhXXIyP42TlHRk69g&s"
       }
+    ],
+    "user":[
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "address": "123 Main St, City, Country",
+        "phone_number": "+1234567890",
+        "password": "password123",
+        "gender": "male",
+        "date_of_birth": "1990-05-20"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "address": "456 Elm St, City, Country",
+        "phone_number": "+1987654321",
+        "password": "smith456",
+        "gender": "female",
+        "date_of_birth": "1985-10-15"
+      },
+      {
+        "id": 3,
+        "name": "Michael Johnson",
+        "email": "michael.johnson@example.com",
+        "address": "789 Oak St, City, Country",
+        "phone_number": "+1122334455",
+        "password": "mike123",
+        "gender": "male",
+        "date_of_birth": "1988-12-03"
+      },
+      {
+        "id": 4,
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "address": "567 Pine St, City, Country",
+        "phone_number": "+1443322110",
+        "password": "browny67",
+        "gender": "female",
+        "date_of_birth": "1992-07-25"
+      },
+      {
+        "id": 5,
+        "name": "Christopher Lee",
+        "email": "chris.lee@example.com",
+        "address": "890 Maple St, City, Country",
+        "phone_number": "+1555098765",
+        "password": "lee987",
+        "gender": "male",
+        "date_of_birth": "1980-02-18"
+      },
+      {
+        "id": 6,
+        "name": "Amanda Taylor",
+        "email": "amanda.taylor@example.com",
+        "address": "234 Cedar St, City, Country",
+        "phone_number": "+1667788990",
+        "password": "taylor23",
+        "gender": "female",
+        "date_of_birth": "1995-09-30"
+      },
+      {
+        "id": 7,
+        "name": "David Martinez",
+        "email": "david.martinez@example.com",
+        "address": "345 Walnut St, City, Country",
+        "phone_number": "+1778899001",
+        "password": "david456",
+        "gender": "male",
+        "date_of_birth": "1983-11-12"
+      },
+      {
+        "id": 8,
+        "name": "Jessica Hernandez",
+        "email": "jessica.hernandez@example.com",
+        "address": "456 Birch St, City, Country",
+        "phone_number": "+1888999002",
+        "password": "jessi789",
+        "gender": "female",
+        "date_of_birth": "1998-04-08"
+      },
+      {
+        "id": 9,
+        "name": "Matthew Nguyen",
+        "email": "matthew.nguyen@example.com",
+        "address": "567 Cherry St, City, Country",
+        "phone_number": "+1999000111",
+        "password": "mattng22",
+        "gender": "male",
+        "date_of_birth": "1987-08-17"
+      },
+      {
+        "id": 10,
+        "name": "Sarah Gonzalez",
+        "email": "sarah.gonzalez@example.com",
+        "address": "678 Aspen St, City, Country",
+        "phone_number": "+2001122334",
+        "password": "sarah567",
+        "gender": "female",
+        "date_of_birth": "1993-03-05"
+      },
+      {
+        "id": 11,
+        "name": "Daniel Perez",
+        "email": "daniel.perez@example.com",
+        "address": "789 Cedar St, City, Country",
+        "phone_number": "+2112233445",
+        "password": "dan123",
+        "gender": "male",
+        "date_of_birth": "1984-06-23"
+      },
+      {
+        "id": 12,
+        "name": "Ashley Ramirez",
+        "email": "ashley.ramirez@example.com",
+        "address": "890 Elm St, City, Country",
+        "phone_number": "+2223344556",
+        "password": "ash456",
+        "gender": "female",
+        "date_of_birth": "1990-01-14"
+      },
+      {
+        "id": 13,
+        "name": "Joseph Torres",
+        "email": "joseph.torres@example.com",
+        "address": "123 Pine St, City, Country",
+        "phone_number": "+2334455667",
+        "password": "joe456",
+        "gender": "male",
+        "date_of_birth": "1982-09-10"
+      },
+      {
+        "id": 14,
+        "name": "Megan Flores",
+        "email": "megan.flores@example.com",
+        "address": "234 Maple St, City, Country",
+        "phone_number": "+2445566778",
+        "password": "megan123",
+        "gender": "female",
+        "date_of_birth": "1996-12-28"
+      },
+      {
+        "id": 15,
+        "name": "Ryan Walker",
+        "email": "ryan.walker@example.com",
+        "address": "345 Oak St, City, Country",
+        "phone_number": "+2556677889",
+        "password": "ryan789",
+        "gender": "male",
+        "date_of_birth": "1986-05-19"
+      },
+      {
+        "id": 16,
+        "name": "Stephanie Perez",
+        "email": "stephanie.perez@example.com",
+        "address": "456 Pine St, City, Country",
+        "phone_number": "+2667788990",
+        "password": "steph123",
+        "gender": "female",
+        "date_of_birth": "1991-08-03"
+      },
+      {
+        "id": 17,
+        "name": "Justin Wright",
+        "email": "justin.wright@example.com",
+        "address": "567 Cedar St, City, Country",
+        "phone_number": "+2778899001",
+        "password": "just456",
+        "gender": "male",
+        "date_of_birth": "1989-02-14"
+      },
+      {
+        "id": 18,
+        "name": "Laura Scott",
+        "email": "laura.scott@example.com",
+        "address": "678 Elm St, City, Country",
+        "phone_number": "+2889900112",
+        "password": "laura789",
+        "gender": "female",
+        "date_of_birth": "1994-11-21"
+      },
+      {
+        "id": 19,
+        "name": "Brandon Martinez",
+        "email": "brandon.martinez@example.com",
+        "address": "789 Maple St, City, Country",
+        "phone_number": "+2990011223",
+        "password": "brandon123",
+        "gender": "male",
+        "date_of_birth": "1981-07-07"
+      },
+      {
+        "id": 20,
+        "name": "Kimberly Lee",
+        "email": "kimberly.lee@example.com",
+        "address": "890 Oak St, City, Country",
+        "phone_number": "+3001122334",
+        "password": "kim456",
+        "gender": "female",
+        "date_of_birth": "1997-10-30"
+      }
     ]
     
   }
